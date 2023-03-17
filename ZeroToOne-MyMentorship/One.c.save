@@ -21,7 +21,7 @@ int mul(int a, int b)
 
 int main ()
 {
-    int x = mul(1, 2); //2
+    int x = mul(1, 2); //3
     printf("%d", x);
     return 0 ;
 }
